@@ -13,4 +13,4 @@ A simple password manager built using Qt, designed to securely store and retriev
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Manisha-kumari-210/Password-Manager.git>
